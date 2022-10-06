@@ -8,4 +8,4 @@
 
     - pull request 목적지는 스터디 대상 프로젝트의 main branch로 한다.
     - pull request 출발지는 fork한 자신의 저장소의 3번에서 생성한 branch로 한다.
-    - ex) weekly-acaemy:main  <- heli-os:heli-os
+    - ex) weekly-academy:main  <- heli-os:heli-os
